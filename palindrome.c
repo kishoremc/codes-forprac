@@ -16,7 +16,7 @@ void palindrome() {
     if (originalN == reversedN)
         printf("%d is a palindrome.", originalN);
     else
-        printf("%d is not a paLindrome.", originalN);
+        printf("%d is not a PaLindrome.", originalN);
 
     return 0;
 }
