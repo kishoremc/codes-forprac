@@ -16,7 +16,7 @@ void biggest2()
     }
     else
     {
-        printf("Both are Equal\n");
+        printf("Both are equal\n");
     }
     return 0;
 }
