@@ -12,7 +12,7 @@ void factorial() {
         for (i = 1; i <= n; ++i) {
             fact *= i;
         }
-        printf("Factorial of %d = %llu\n", n, fact);
+        printf("factorial of %d = %llu\n", n, fact);
     }
 
     return 0;
