@@ -31,7 +31,7 @@ void sort()
             }
         }
     }
-    printf("Sorted array is...\n");
+    printf("sorted array is...\n");
     for (i = 0; i < num; i++)
     {
         printf("%d\n", array[i]);
